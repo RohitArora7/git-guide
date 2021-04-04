@@ -132,3 +132,49 @@ cat ~/.ssh/id_rsa.pub
 
 
  git clone https://github.com/RohitArora7/my-project.git
+
+
+
+
+git clone git@github.com:RohitArora7/runsh.git
+
+mv run.sh runsh
+
+git status
+
+git add run.sh
+
+git commmit -m "first added"
+
+git push
+
+git pull
+
+
+
+
+
+
+
+
+git log  // will show you all the commits 
+
+git diff
+
+git checkout // you can jump to nay commit 
+
+git checkout master // brings you to latest
+
+
+
+
+child 
+
+
+git checkout -b newbranch // create new bacha 
+git push origin newbranch // push in new bacha 
+
+
+
+
+git branch
