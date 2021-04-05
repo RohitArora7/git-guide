@@ -178,3 +178,36 @@ git push origin newbranch // push in new bacha
 
 
 git branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git status
+
+git add .
+
+git commit -m "first commit"
+
+cd /mnt/c/xampp/htdocs/outt
+
+git config --global user.email "arora.rohit627@gmail.com"
+
+git config --global user.name "Rohit Arora"
+
+git remote add origin git@github.com:RohitArora7/Website.git
+
+
+
+git push --set-upstream origin master
