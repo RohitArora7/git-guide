@@ -180,7 +180,7 @@ git push origin newbranch // push in new bacha
 git branch
 
 
- _______________________________________________
+ _________________________________________________________________
  
  git clone git@github.com:wavelabsai/ueransim.git 
 
@@ -208,15 +208,7 @@ git push origin ansible-update
 
 
 
-
-
-
-
-
-
-
-
-
+_________________________________________________________________
 
 
 git status
@@ -233,6 +225,6 @@ git config --global user.name "Rohit Arora"
 
 git remote add origin git@github.com:RohitArora7/Website.git
 
-
-
 git push --set-upstream origin master
+
+__________________________________________________________
