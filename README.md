@@ -180,6 +180,31 @@ git push origin newbranch // push in new bacha
 git branch
 
 
+ _______________________________________________
+ 
+ git clone git@github.com:wavelabsai/ueransim.git 
+
+//create another branch 
+git checkout -b ansible-update 
+
+//copy from vm
+scp 'ansible@192.168.122.245:/home/ansible/UERANSIM/*' .
+
+//latest commits
+git log
+
+// show tracking
+git status
+
+//git add
+git add .
+
+//commit
+git commit
+
+//git push
+git push origin ansible-update
+
 
 
 
