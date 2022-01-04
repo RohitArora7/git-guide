@@ -182,6 +182,7 @@ git branch
 
  _________________________________________________________________
  
+ ```bash
  git clone git@github.com:wavelabsai/ueransim.git 
 
 //create another branch 
@@ -205,11 +206,11 @@ git commit
 //git push
 git push origin ansible-update
 
-
+```
 
 
 _________________________________________________________________
-
+```bash
 
 git status
 
@@ -226,5 +227,5 @@ git config --global user.name "Rohit Arora"
 git remote add origin git@github.com:RohitArora7/Website.git
 
 git push --set-upstream origin master
-
+```
 __________________________________________________________
